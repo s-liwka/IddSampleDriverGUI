@@ -37,7 +37,14 @@ width, height, refresh rate
 width, height, refresh rate
 ...
 ```
-7. Run the script as admin
+eg.
+```
+2
+#@ROOT\DISPLAY\0000
+1920, 1080, 60
+1280, 720, 90
+```
+8. Run the script AS ADMIN
 ```
 python IddSampleDriverGUI.py
 ```
