@@ -1,7 +1,7 @@
 # IddSampleDriverGUI
 GUI for modifying options.txt from https://github.com/ge9/IddSampleDriver
 
-![alt text]https://github.com/s-liwka/IddSampleDriverGUI/blob/main/img/screenshot1.png?raw=true
+![alt text](https://github.com/s-liwka/IddSampleDriverGUI/blob/main/img/screenshot1.png?raw=true)
 
 ## Installation
 
