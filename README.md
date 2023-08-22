@@ -36,6 +36,7 @@ pip install -r requirements.txt
 width, height, refresh rate
 width, height, refresh rate
 ...
+```
 7. Run the script as admin
 ```
 python IddSampleDriverGUI.py
