@@ -29,6 +29,13 @@ IddSampleDriverGUI-venv\Scripts\activate.bat
 ```
 pip install -r requirements.txt
 ```
+7. Before you start the script, format your current option.txt to remove all comments, and (optionally) add one with your device id!!! The file should look like this:
+```
+<number of monitors>
+#<Device ID>
+width, height, refresh rate
+width, height, refresh rate
+...
 7. Run the script as admin
 ```
 python IddSampleDriverGUI.py
